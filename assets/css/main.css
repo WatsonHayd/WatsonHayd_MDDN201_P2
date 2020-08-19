@@ -2399,13 +2399,13 @@ input, select, textarea {
 			display: block;
 			
 			margin: 0 0 0em 0;
-			width:50%;
-			height: 30%;
+			width: 50%;
+			height: 50%;
 		}
 
 			.image.search img{
-				width: 300%;
-				height: 50%;
+				width: 250%;
+				height: 30%;
 			}
 
 /* List */
