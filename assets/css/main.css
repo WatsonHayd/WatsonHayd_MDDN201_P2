@@ -2397,14 +2397,14 @@ input, select, textarea {
 
 		.image.search{
 			display: block;
-			padding: 0 0 0em 0em;
+			
 			margin: 0 0 0em 0;
-			width:300%;
+			width:50%;
 			height: 30%;
 		}
 
 			.image.search img{
-				width: 50%;
+				width: 300%;
 				height: 50%;
 			}
 
