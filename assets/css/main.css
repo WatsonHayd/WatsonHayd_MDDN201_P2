@@ -2395,6 +2395,19 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.search{
+			display: block;
+			padding: 0 0 0em 0em;
+			margin: 0 0 0em 0;
+			width:300%;
+			height: 30%;
+		}
+
+			.image.search img{
+				width: 50%;
+				height: 50%;
+			}
+
 /* List */
 
 	ol {
@@ -2927,7 +2940,7 @@ input, select, textarea {
 	}
 
 		#header a {
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: rgba(56,56,56);
 		}
 
 			#header a:hover {
@@ -3077,7 +3090,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			
 			content: '';
 			height: 100%;
 			left: 0;
